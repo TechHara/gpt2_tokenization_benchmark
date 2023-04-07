@@ -16,4 +16,4 @@ bash calc_parity.sh output.{hf,tt}
 
 ## Result
 Ran on Ubuntu x64. Lower the better.
-![](benchmark.webp)
+![](benchmark.png)
